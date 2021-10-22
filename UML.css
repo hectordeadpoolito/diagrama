@@ -1,0 +1,30 @@
+.title{
+    font-family: 'Qahiri', sans-serif;
+    font-size: 40px;
+    
+    display:flex;
+    justify-content: center;
+
+}
+.answers{
+
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    
+}
+
+.my-pinion{
+    font-family: 'Noto Serif Display', serif;
+}
+
+.nav-link{
+    color: dimgrey;
+    background-color: gold;
+    display:flex;
+    justify-content: center;
+}
+
+.image{
+    display:flex;
+    justify-content: center;
+}
